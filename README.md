@@ -23,8 +23,10 @@ Pre-releases available via NuGet
 A C#.NET client for [PokeAPI](https://www.pokeapi.co/), primarily supporting [PokemonCLI](https://github.com/cyadehn/PokemonCLI).
 
 ### Completed Features
-GetPokemon by Region Name | Complete
-GetBattleData by Player.Pokemon lists | Not Started
+| Feature                   | Status |
+|--------------------------------|-----------------|
+| GetPokemon by Region Name | Complete |
+| GetBattleData by Player.Pokemon lists | Not Started |
 
 ### Status
 ### Contact
