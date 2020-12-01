@@ -1,13 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-     <TargetFramework>netstandard2.0</TargetFramework> 
+    <TargetFramework>netstandard2.0</TargetFramework> 
+    <AssemblyName>Cya.PokeAPIClient</AssemblyName>
+    <PackageVersion>1.1.0-alpha</PackageVersion>
+    <Authors>Christopher Dehner</Authors>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="RestSharp" Version="106.11.7" />
-    <PackageReference Include="System.Text.Json" Version="4.7.2" />
   </ItemGroup>
 
 </Project>
